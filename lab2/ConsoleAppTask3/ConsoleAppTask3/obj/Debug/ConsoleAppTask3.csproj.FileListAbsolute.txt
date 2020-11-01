@@ -1,0 +1,6 @@
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\ConsoleAppTask3\ConsoleAppTask3\bin\Debug\ConsoleAppTask3.exe.config
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\ConsoleAppTask3\ConsoleAppTask3\bin\Debug\ConsoleAppTask3.exe
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\ConsoleAppTask3\ConsoleAppTask3\bin\Debug\ConsoleAppTask3.pdb
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\ConsoleAppTask3\ConsoleAppTask3\obj\Debug\ConsoleAppTask3.exe
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\ConsoleAppTask3\ConsoleAppTask3\obj\Debug\ConsoleAppTask3.pdb
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\ConsoleAppTask3\ConsoleAppTask3\obj\Debug\ConsoleAppTask3.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csprojAssemblyReference.cache
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe.config
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.pdb
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.exe
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.pdb
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\lab2\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe.config
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\lab2\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\lab2\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.pdb
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\lab2\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csprojAssemblyReference.cache
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\lab2\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.exe
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\lab2\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.pdb

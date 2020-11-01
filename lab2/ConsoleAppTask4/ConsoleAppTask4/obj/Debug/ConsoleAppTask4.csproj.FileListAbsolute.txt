@@ -1,0 +1,5 @@
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\lab2\ConsoleAppTask4\ConsoleAppTask4\bin\Debug\ConsoleAppTask4.exe.config
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\lab2\ConsoleAppTask4\ConsoleAppTask4\bin\Debug\ConsoleAppTask4.exe
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\lab2\ConsoleAppTask4\ConsoleAppTask4\bin\Debug\ConsoleAppTask4.pdb
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\lab2\ConsoleAppTask4\ConsoleAppTask4\obj\Debug\ConsoleAppTask4.exe
+D:\nikita\OneDrive - ITSTEP\C#\Урок2_Массивы_и_строки_Перечисления\modul2\lab2\ConsoleAppTask4\ConsoleAppTask4\obj\Debug\ConsoleAppTask4.pdb
